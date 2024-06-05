@@ -1,4 +1,3 @@
-pointers = []
 numbers = []
 opperators = []
 number = 0
